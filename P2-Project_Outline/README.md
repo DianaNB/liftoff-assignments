@@ -7,14 +7,16 @@ Music app that will allow users to create, add, edit, & share playlists based on
 * **User Forums:** Users can create and join diffferent forums to collab on playlists
 * **Rating:** Users can view and rate playlists
 * **Playlists:** Playlists can be private,  public, or collabrative
+
 ## Technologies
 * React
 * Java
 * Spring
 * Hibernate
+
 ### Necessary To Learn
 * How to create an API with Java
 * How to host a full web app
-* CSS Grid
+
 ### Project Tracker
 [Trello project tracker](https://trello.com/b/ODy7qDkb/)
