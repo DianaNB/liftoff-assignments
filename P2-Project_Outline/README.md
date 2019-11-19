@@ -13,10 +13,14 @@ Music app that will allow users to create, add, edit, & share playlists based on
 * Java
 * Spring
 * Hibernate
+* MongoDB
+* Ruby
 
 ### Necessary To Learn
 * How to create an API with Java
 * How to host a full web app
+* MongoDB
+* Ruby
 
 ### Project Tracker
 [Trello project tracker](https://trello.com/b/ODy7qDkb/)
