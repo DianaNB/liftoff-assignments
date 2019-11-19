@@ -9,18 +9,12 @@ This is a music web application that will allow users to create, add, edit, & sh
 * **Playlists:** Playlists can be private,  public, or collabrative
 
 ## Technologies
-* React
 * Java
-* Spring
-* Hibernate
-* MongoDB
-* Ruby
+* SpringBoot
+* MySQL
+* Bootstrap
 
 ### Necessary To Learn
-* How to create an API with Java
-* How to host a full web app
-* MongoDB
-* Ruby
-
+* I will need to know how to incoporate a music database API so that the users can find and add songs. I need to figure out how multiple people can work on a playlist together as well. I'm sure as I continue mapping out my project I will discover move things I need to learn.
 ### Project Tracker
 [Trello project tracker](https://trello.com/b/ODy7qDkb/)
