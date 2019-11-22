@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a music web application that will allow users to create, add, edit, & share playlists based on users music preferences.Can follow other users profiles and collab with users to create shared playlists. This will create a space for music lovers far and wide to find, learn, and share music with others in a fun collabritive way. This is the foundation of a larger idea for a music finder app. The basis of this liftoff is to create a space where music lovers can find and identify new music trends and new music from around the world.
+This is a music web application that will allow users to create, add, edit, & share playlists based on users music preferences.This will create a space for music lovers far and wide to find, learn, and share music with others in a fun collabritive way. This is the foundation of a larger idea for a music finder app that will eventually be able to identify new music for the user based off more technical makeup of the music. The basis of this liftoff is to create a space where music lovers can find and identify new music trends and new music from around the world.
 * **User Signup:** Users will create an account
 * **User Accounts** Users can view all of the songs they've added to their profile
 * **Search:** Users can search for new music to add to their profile
