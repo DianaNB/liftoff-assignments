@@ -6,7 +6,7 @@ This is a music web application that will allow users to create, add, edit, & sh
 * **User Signup:** Users will create an account
 * **User Accounts** Users can view all of the songs they've added to their profile
 * **Search:** Users can search for new music to add to their profile
-* **Playlists:** Playlists can be private,  public, or collabrative
+* **Playlists:** Playlists can be created, added and edited. They can also be private,  public, or collabrative
 
 ## Technologies
 * Java
